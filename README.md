@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Projects for learning more about data science.
+Some data science projects I did to learn more about data science. 
